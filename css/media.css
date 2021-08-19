@@ -49,6 +49,27 @@
     margin: 10px 0 0px;
 }
 /*service end*/ 
+
+/*extra-small about us start*/
+.about_us{
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.a_text_wrapper{
+    text-align: center;
+}
+.a_text_wrapper h1{
+    margin-top: 30px;
+    font-size: 22px;
+}
+.a_text_wrapper p{
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+.common_btn{
+    margin-top: 30px;
+}
+/*extra-small about us end*/  
 }
 
 /*Small devices (landscape phones, 576px and up)*/
@@ -72,7 +93,26 @@
 .s_paragraph {
     margin: 15px 0 15px;
 }
-/*service end*/ 
+/*service end*/
+
+/*small about us start*/
+.about_us{
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.a_text_wrapper{
+    text-align: center;
+}
+.a_text_wrapper h1{
+    margin-top: 30px;
+}
+.a_text_wrapper p{
+    margin-top: 20px;
+}
+.common_btn{
+    margin-top: 20px;
+}
+/*small about us end*/  
 }
 
 /*Medium devices (tablets, 768px and up)*/
@@ -105,7 +145,26 @@
 .s_paragraph {
     margin: 20px 0 20px;
 }
-/*service end*/	
+/*service end*/
+
+/*medium about us start*/
+.about_us{
+    padding-top: 70px;
+    padding-bottom: 90px;
+}
+.a_text_wrapper{
+    text-align: center;
+}
+.a_text_wrapper h1{
+    margin-top: 30px;
+}
+.a_text_wrapper p{
+    margin-top: 20px;
+}
+.common_btn{
+    margin-top: 20px;
+}
+/*medium about us end*/ 	
 }
 
 /*Large devices (desktops, 992px and up)*/
